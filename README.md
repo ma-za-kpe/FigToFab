@@ -2,8 +2,12 @@
 
 **Effortlessly Transform Your Figma Designs into Beautiful Jetpack Compose Code with Gemini AI**
 
-[![Figma to Fabulous Video Demo](https://img.youtube.com/vi/<YOUR_VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<YOUR_VIDEO_ID>) <br />
 *Watch our demo video to see Figma to Fabulous in action!*
+
+
+https://github.com/ma-za-kpe/FigToFab/assets/28810111/7c55fa7c-803a-444a-b76a-d549dae80213
+
+
 
 ## Getting Started
 
