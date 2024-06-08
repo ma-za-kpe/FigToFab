@@ -22,3 +22,5 @@ https://github.com/ma-za-kpe/FigToFab/assets/28810111/7c55fa7c-803a-444a-b76a-d5
     - https://aistudio.google.com/app/apikey
   
 5. download and play with the app here: https://fastupload.io/38ba8af19b15dd62
+   
+![frame (2)](https://github.com/ma-za-kpe/FigToFab/assets/28810111/b5733e66-1f74-421e-83da-8435cca0a40e)
