@@ -4,7 +4,7 @@
 
 *Watch our demo video to see Figma to Fabulous in action!*
 
-https://github.com/ma-za-kpe/FigToFab/assets/28810111/7c55fa7c-803a-444a-b76a-d549dae80213
+https://www.youtube.com/shorts/nG_Cvy5g0jA
 
 ## Getting Started
 
