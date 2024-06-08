@@ -218,7 +218,7 @@ fun CodeBlock(
                     text = figmaFile.toString(),
                     fontFamily = FontFamily.Monospace,
                     fontSize = 14.sp,
-                    color = Color.White,
+                    color = MaterialTheme.colorScheme.outline,
                     modifier = Modifier
                         .verticalScroll(rememberScrollState())
                 )
@@ -248,7 +248,7 @@ fun CodeBlock(
                     text = code.toString(),
                     fontFamily = FontFamily.Monospace,
                     fontSize = 14.sp,
-                    color = Color.White,
+                    color = MaterialTheme.colorScheme.outline,
                     modifier = Modifier
                         .verticalScroll(rememberScrollState())
                 )

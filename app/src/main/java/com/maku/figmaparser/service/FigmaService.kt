@@ -1,5 +1,6 @@
 package com.maku.figmaparser.service
 
+import com.google.gson.JsonObject
 import com.maku.figmaparser.model.finali.FigmaFile
 import kotlinx.coroutines.flow.Flow
 import retrofit2.Response
@@ -18,7 +19,7 @@ interface FigmaService {
         @Query("geometry") geometry: String? = null,
         @Query("plugin_data") pluginData: String? = null,
         @Query("branch_data") branchData: Boolean? = null
-    ): Response<FigmaFile>
+    ): Response<JsonObject>
 
 //    @GET("/v1/files/{key}/nodes")
 //    fun getFileNodes(

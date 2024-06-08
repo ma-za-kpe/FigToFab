@@ -15,6 +15,7 @@ import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
+import retrofit2.http.Body
 import java.util.logging.Logger
 import javax.inject.Inject
 import javax.inject.Singleton
@@ -58,9 +59,7 @@ object ApiModule {
     @Provides
     fun provideHttpLoggingInterceptor(loggingInterceptor: LoggingInterceptor): HttpLoggingInterceptor {
         val interceptor = HttpLoggingInterceptor(loggingInterceptor)
-
         interceptor.level = HttpLoggingInterceptor.Level.BODY
-
         return interceptor
     }
 
